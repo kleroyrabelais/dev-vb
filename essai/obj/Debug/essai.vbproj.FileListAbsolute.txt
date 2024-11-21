@@ -1,0 +1,11 @@
+C:\Users\le_roy\Desktop\klr\vb2022\essai\essai\obj\Debug\essai.vbproj.AssemblyReference.cache
+C:\Users\le_roy\Desktop\klr\vb2022\essai\essai\obj\Debug\essai.Resources.resources
+C:\Users\le_roy\Desktop\klr\vb2022\essai\essai\obj\Debug\essai.vbproj.GenerateResource.cache
+C:\Users\le_roy\Desktop\klr\vb2022\essai\essai\obj\Debug\essai.vbproj.CoreCompileInputs.cache
+C:\Users\le_roy\Desktop\klr\vb2022\essai\essai\bin\Debug\essai.exe.config
+C:\Users\le_roy\Desktop\klr\vb2022\essai\essai\bin\Debug\essai.exe
+C:\Users\le_roy\Desktop\klr\vb2022\essai\essai\bin\Debug\essai.pdb
+C:\Users\le_roy\Desktop\klr\vb2022\essai\essai\bin\Debug\essai.xml
+C:\Users\le_roy\Desktop\klr\vb2022\essai\essai\obj\Debug\essai.exe
+C:\Users\le_roy\Desktop\klr\vb2022\essai\essai\obj\Debug\essai.xml
+C:\Users\le_roy\Desktop\klr\vb2022\essai\essai\obj\Debug\essai.pdb
