@@ -6,7 +6,7 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{6031360A-9399-4573-9AD4-66557E3C6385}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <StartupObject>essai.Moduleaa</StartupObject>
+    <StartupObject>essai.TestCompteur</StartupObject>
     <RootNamespace>essai</RootNamespace>
     <AssemblyName>ex vb</AssemblyName>
     <FileAlignment>512</FileAlignment>
@@ -97,9 +97,13 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
+    <Compile Include="objets\1711.vb" />
+    <Compile Include="objets\Classcompteur.vb" />
     <Compile Include="tableau\1311.vb" />
     <Compile Include="tableau\1313.vb" />
     <Compile Include="tableau\1314.vb" />
+    <Compile Include="tableau\15.2.1.vb" />
+    <Compile Include="tableau\15_1sus.vb" />
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="My Project\Resources.resx">
