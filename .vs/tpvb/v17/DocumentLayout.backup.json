@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\le_roy\\Desktop\\klr\\vb2022\\ex vb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6031360A-9399-4573-9AD4-66557E3C6385}|essai\\ex vb.vbproj|c:\\users\\le_roy\\desktop\\klr\\vb2022\\ex vb\\essai\\objets\\1734.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{6031360A-9399-4573-9AD4-66557E3C6385}|essai\\ex vb.vbproj|solutionrelative:essai\\objets\\1734.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|ex vb||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6031360A-9399-4573-9AD4-66557E3C6385}|essai\\ex vb.vbproj|C:\\Users\\le_roy\\Desktop\\klr\\vb2022\\ex vb\\essai\\objets\\classe_enseignant.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{6031360A-9399-4573-9AD4-66557E3C6385}|essai\\ex vb.vbproj|solutionrelative:essai\\objets\\classe_enseignant.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6031360A-9399-4573-9AD4-66557E3C6385}|essai\\ex vb.vbproj|C:\\Users\\le_roy\\Desktop\\klr\\vb2022\\ex vb\\essai\\objets\\1722.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{6031360A-9399-4573-9AD4-66557E3C6385}|essai\\ex vb.vbproj|solutionrelative:essai\\objets\\1722.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6031360A-9399-4573-9AD4-66557E3C6385}|essai\\ex vb.vbproj|C:\\Users\\le_roy\\Desktop\\klr\\vb2022\\ex vb\\essai\\objets\\classe_eleve.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{6031360A-9399-4573-9AD4-66557E3C6385}|essai\\ex vb.vbproj|solutionrelative:essai\\objets\\classe_eleve.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6031360A-9399-4573-9AD4-66557E3C6385}|essai\\ex vb.vbproj|c:\\users\\le_roy\\desktop\\klr\\vb2022\\ex vb\\essai\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|8998e48e-b89a-4034-b66e-353d8c1fdc2e"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "1734.vb",
+              "DocumentMoniker": "C:\\Users\\le_roy\\Desktop\\klr\\vb2022\\ex vb\\essai\\objets\\1734.vb",
+              "RelativeDocumentMoniker": "essai\\objets\\1734.vb",
+              "ToolTip": "C:\\Users\\le_roy\\Desktop\\klr\\vb2022\\ex vb\\essai\\objets\\1734.vb",
+              "RelativeToolTip": "essai\\objets\\1734.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-02-24T15:15:06.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ex vb",
+              "DocumentMoniker": "C:\\Users\\le_roy\\Desktop\\klr\\vb2022\\ex vb\\essai\\ex vb.vbproj",
+              "RelativeDocumentMoniker": "essai\\ex vb.vbproj",
+              "ToolTip": "C:\\Users\\le_roy\\Desktop\\klr\\vb2022\\ex vb\\essai\\ex vb.vbproj",
+              "RelativeToolTip": "essai\\ex vb.vbproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-02-24T14:49:10.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Classe_eleve.vb",
+              "DocumentMoniker": "C:\\Users\\le_roy\\Desktop\\klr\\vb2022\\ex vb\\essai\\objets\\Classe_eleve.vb",
+              "RelativeDocumentMoniker": "essai\\objets\\Classe_eleve.vb",
+              "ToolTip": "C:\\Users\\le_roy\\Desktop\\klr\\vb2022\\ex vb\\essai\\objets\\Classe_eleve.vb",
+              "RelativeToolTip": "essai\\objets\\Classe_eleve.vb",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAAwG8AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-01-14T13:06:55.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Classe_enseignant.vb",
+              "DocumentMoniker": "C:\\Users\\le_roy\\Desktop\\klr\\vb2022\\ex vb\\essai\\objets\\Classe_enseignant.vb",
+              "RelativeDocumentMoniker": "essai\\objets\\Classe_enseignant.vb",
+              "ToolTip": "C:\\Users\\le_roy\\Desktop\\klr\\vb2022\\ex vb\\essai\\objets\\Classe_enseignant.vb",
+              "RelativeToolTip": "essai\\objets\\Classe_enseignant.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-01-14T13:06:33.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "1722.vb",
+              "DocumentMoniker": "C:\\Users\\le_roy\\Desktop\\klr\\vb2022\\ex vb\\essai\\objets\\1722.vb",
+              "RelativeDocumentMoniker": "essai\\objets\\1722.vb",
+              "ToolTip": "C:\\Users\\le_roy\\Desktop\\klr\\vb2022\\ex vb\\essai\\objets\\1722.vb",
+              "RelativeToolTip": "essai\\objets\\1722.vb",
+              "ViewState": "AgIAACkAAAAAAAAAAAAQwAEAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-01-14T13:02:27.302Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
