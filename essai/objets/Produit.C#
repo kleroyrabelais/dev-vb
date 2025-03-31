@@ -1,0 +1,97 @@
+﻿Public Class Produit
+    Namespace GestionProduits
+
+{
+
+  Class Produit
+
+  {
+
+    Private String designation;
+
+    Private Double prixHT;
+
+    Private Double tauxTVA;
+
+ 
+
+    Public Produit(String pDesignation, double pPrixHT, double pTauxTVA)
+
+    {
+
+      designation = pDesignation;
+
+      prixHT = pPrixHT;
+
+      tauxTVA = pTauxTVA;
+
+    }
+
+    Public void AugmenterPrix(Double pourcentage)
+
+    {
+
+      prixHT = prixHT + pourcentage / 100d * prixHT;
+
+    }
+
+    Public void BaisserPrix(Double pourcentage)
+
+    {
+
+      prixHT = prixHT - pourcentage / 100d * prixHT;
+
+    }
+
+    Public Double GetPrixHT()
+
+    {
+
+      Return prixHT;
+
+    }
+
+    Public String GetDesignation()
+
+    {
+
+      Return designation;
+
+    }
+
+    Public Double GetTauxTVA()
+
+    {
+
+      Return tauxTVA;
+
+    }
+
+    Public void SetTauxTVA(Double nouvTauxTVA)
+
+    {
+
+      tauxTVA = nouvTauxTVA;
+
+    }
+
+    Public Double GetPrixTTC()
+
+    {
+
+      Return prixHT + tauxTVA * prixHT / 100D;
+
+    }
+
+    Public override String ToString()
+
+    {
+
+      Return "\nDésignation : " + designation + "\nPrix HT : " + prixHT.ToString() + "\nTaux TVA : " + tauxTVA.ToString() + "\nPrix TTC : " + GetPrixTTC().ToString();
+
+    }
+
+  }
+
+}
+End Class
