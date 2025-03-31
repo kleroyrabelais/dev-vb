@@ -17,3 +17,11 @@ C:\Users\le_roy\Desktop\dev-vb-master\essai\obj\Debug\ex vb.vbproj.CoreCompileIn
 C:\Users\le_roy\Desktop\dev-vb-master\essai\obj\Debug\ex vb.exe
 C:\Users\le_roy\Desktop\dev-vb-master\essai\obj\Debug\ex vb.xml
 C:\Users\le_roy\Desktop\dev-vb-master\essai\obj\Debug\ex vb.pdb
+C:\Users\sio1\source\repos\dev-vb\essai\obj\Debug\ex vb.vbproj.AssemblyReference.cache
+C:\Users\sio1\source\repos\dev-vb\essai\obj\Debug\ex vb.vbproj.SuggestedBindingRedirects.cache
+C:\Users\sio1\source\repos\dev-vb\essai\obj\Debug\essai.Resources.resources
+C:\Users\sio1\source\repos\dev-vb\essai\obj\Debug\ex vb.vbproj.GenerateResource.cache
+C:\Users\sio1\source\repos\dev-vb\essai\obj\Debug\ex vb.vbproj.CoreCompileInputs.cache
+C:\Users\sio1\source\repos\dev-vb\essai\obj\Debug\ex vb.exe
+C:\Users\sio1\source\repos\dev-vb\essai\obj\Debug\ex vb.xml
+C:\Users\sio1\source\repos\dev-vb\essai\obj\Debug\ex vb.pdb

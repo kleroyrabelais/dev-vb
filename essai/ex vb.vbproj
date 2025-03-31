@@ -100,10 +100,12 @@
     <Compile Include="objets\1711.vb" />
     <Compile Include="objets\1722.vb" />
     <Compile Include="objets\1734.vb" />
+    <Compile Include="objets\2412.vb" />
     <Compile Include="objets\Classcompteur.vb" />
     <Compile Include="objets\Classe_eleve.vb" />
     <Compile Include="objets\Classe_enseignant.vb" />
     <Compile Include="objets\Pile.vb" />
+    <Compile Include="objets\Produit.vb" />
     <Compile Include="tableau\1311.vb" />
     <Compile Include="tableau\1313.vb" />
     <Compile Include="tableau\1314.vb" />
